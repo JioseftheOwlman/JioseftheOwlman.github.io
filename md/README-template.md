@@ -5,7 +5,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Table of contents
 
 - [Overview](#overview)
-  - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
@@ -17,11 +16,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 
 
-### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
 ## My process
 
 ### Built with
@@ -29,29 +23,20 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
-- Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
+- SASS
+- Box-Shadow Generator tool - Link: (https://cssgenerator.org/box-shadow-css-generator.html)
 
 
 ### What I learned
 
-
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
+I learned a little more about positioning elements with CSS, this is the second time I have used SASS on something and I don't dislike the result at all
 
 ### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
+This is just the beginning, I still have many projects to do
 
 
 ## Author
 
-- Frontend Mentor - [Joseph](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [Joseph](https://www.frontendmentor.io/profile/JioseftheOwlman)
 - Discord - [JioseftheOwlman] (JioseftheOwlman#4658)
-
-
-
-
